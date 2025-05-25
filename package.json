@@ -1,0 +1,26 @@
+{
+  "name": "curso_backend_express_platzi",
+  "version": "1.0.0",
+  "description": "Curso de backend con express en platzi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennysferrer/CURSO_BACKEND_EXPRESS_PLATZI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/dennysferrer/CURSO_BACKEND_EXPRESS_PLATZI/issues"
+  },
+  "homepage": "https://github.com/dennysferrer/CURSO_BACKEND_EXPRESS_PLATZI#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
